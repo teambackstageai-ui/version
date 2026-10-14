@@ -4,8 +4,10 @@
   "ios_inspection": false,
   "android_inspection": false,
   "need_update": false,
-  "ios_update_reason": "새 버전으로 업데이트해주세요.",
-  "android_update_reason": "새 버전으로 업데이트해주세요.",
-  "ios_inspection_reason": "서버 점검 중입니다. 잠시 후 다시 이용해주세요.",
-  "android_inspection_reason": "서버 점검 중입니다. 잠시 후 다시 이용해주세요."
+  "ios_update_reason": "Your chat, your way.
+More ways to customize your chats.",
+  "android_update_reason": "Your chat, your way.
+More ways to customize your chats.",
+  "ios_inspection_reason": "Upgrade 1.4.0",
+  "android_inspection_reason": "Upgrade 1.4.0"
 }
