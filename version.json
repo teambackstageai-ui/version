@@ -1,9 +1,9 @@
 {
-  "ios_version": "1.4.0",
+  "ios_version": "1.4.1",
   "android_version": "1.4.0",
   "ios_inspection": false,
   "android_inspection": false,
-  "need_update": false,
+  "need_update": true,
   "ios_update_reason": "새 버전으로 업데이트해주세요.",
   "android_update_reason": "새 버전으로 업데이트해주세요.",
   "ios_inspection_reason": "서버 점검 중입니다. 잠시 후 다시 이용해주세요.",
